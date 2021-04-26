@@ -15,3 +15,5 @@ User.prototype.logout = function(){
 };
 
 var userOne = new User('sergino.martina@gmail.com', 'sergino');
+var userTwo = new User('ex@gmail.com', 'ex');
+var userthree = new User('aa@gmail.com', 'aa');
